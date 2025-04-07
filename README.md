@@ -9,3 +9,6 @@ A FastAPI project that detects emotions from messages, generates responses, and 
 1. Install dependencies:
    ```bash
    pip install fastapi uvicorn sqlalchemy psycopg2-binary httpx
+
+## API Documentation
+Website for API documentation: [Apilayer.com](https://apilayer.com/marketplace/text_to_emotion-api?utm_source=chatgpt.com&e=Sign+Up&l=Success)
